@@ -1,0 +1,142 @@
+
+.tablero {
+	width: 450px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 22px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+.tablero2 {
+	width: 627px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 22px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+.tablero3 {
+	width: 627px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 130px;
+	margin-bottom: 92px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+
+.table th{
+	padding: 5px;
+	width: 10%;
+}
+
+.table {
+	text-align: center;
+	border-color: #017bab;
+}
+
+
+.mostrar {
+	width: 400px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 146px;
+	margin-bottom: 135px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+.mostrar a{
+	display: block;
+	background: #1860A0;
+	width: 100px;
+	color: white;
+	text-decoration: none;
+	padding: 7px;
+	margin-top: 10px;
+	border-radius: 20px;
+	border: 3px solid #1860A0;
+}
+
+
+.mostrar a:hover {
+	background: #017bab;
+}
+
+.mostrar2 {
+	width: 400px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 146px;
+	margin-bottom: 135px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+.mostrar2 a{
+	display: block;
+	background: #1860A0;
+	width: 130px;
+	color: white;
+	text-decoration: none;
+	padding: 7px;
+	margin-top: 10px;
+	border-radius: 20px;
+	border: 3px solid #1860A0;
+}
+
+
+.mostrar2 a:hover {
+	background: #017bab;
+}
+
+
+.mostrar3 {
+	width: 700px;
+	height: auto;
+	background: #333;
+	margin: auto;
+	margin-top: 140px;
+	margin-bottom: 128px;
+	box-shadow: 7px 13px 37px #000;
+	padding: 20px 30px;
+	border-top: 4px solid #017bab;
+	color: white;
+}
+
+.mostrar3 a{
+	display: block;
+	background: #1860A0;
+	width: 100px;
+	color: white;
+	text-decoration: none;
+	padding: 4px 22px;
+	margin-top: 10px;
+	border-radius: 20px;
+	border: 3px solid #1860A0;
+}
+
+
+.mostrar3 a:hover {
+	background: #017bab;
+}
